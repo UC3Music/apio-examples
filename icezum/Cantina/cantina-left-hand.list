@@ -1,0 +1,336 @@
+//-- Marcha imperial. Compuesta por John Williams para Star Wars: A new hope.
+//-- Código original por Obijuan para open-fpga-verilog-tutorial Capítulo 27 [https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Cap%C3%ADtulo-27%3A-Memoria-ROM-gen%C3%A9rica]
+//-- Remake del código original por JorFru: Ajuste a compases 4/4 y añadida la tercera parte de la melodía.
+0  //-- Un 0 es un SILENCIO
+0
+0
+0
+0
+0
+0
+A91D //--DOs_3
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+A91D //--DOs_3
+A91D
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+A91D //--DOs_3
+A91D
+/////////////////////
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+A91D //--DOs_3
+A91D
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+//
+EF29 //--SOL_2
+EF29
+9F9F //-- RE_3
+9F9F
+BDD2 //--SI_2
+BDD2
+9F9F //-- RE_3
+9F9F
+//
+B32B //--DO_3
+B32B
+7795 //--SOL_3
+7795
+8E35 //--MI_3
+8E35
+7795 //--SOL_3
+7795
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+//
+C91C //--LAs_2
+0
+C91C //--LAs_2
+0
+BDD2 //--SI_2
+0
+BDD2 //--SI_2
+0
+//
+B32B //--DO_3
+0
+B32B //--DO_3
+0
+9F9F //--RE_3
+0
+9F9F //--RE_3
+0
+//
+EF29 //--SOL_2
+0
+EF29 //--SOL_2
+0
+B32B //--DO_3
+0
+B32B //--DO_3
+0
+//
+8639 //--FA_3
+0
+8639 //--FA_3
+0
+8639 //--FA_3
+0
+8639 //--FA_3
+0
+///////////////////
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+A91D //--DOs_3
+A91D
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+A91D //--DOs_3
+A91D
+//
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+9F9F //-- RE_3
+9F9F
+6A89 //--LA_3
+6A89
+//
+EF29 //--SOL_2
+EF29
+9F9F //-- RE_3
+9F9F
+BDD2 //--SI_2
+BDD2
+9F9F //-- RE_3
+9F9F
+//
+B32B //--DO_3
+B32B
+7795 //--SOL_3
+7795
+8E35 //--MI_3
+8E35
+7795 //--SOL_3
+7795
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+D511 //--LA_2
+D511
+6A89 //--LA_3
+6A89
+//
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+9F9F //--RE_3
+9F9F
+6A89 //--LA_3
+6A89
+//
+C91C //--LAs_2
+0
+C91C //--LAs_2
+0
+BDD2 //--SI_2
+0
+BDD2 //--SI_2
+0
+//
+B32B //--DO_3
+0
+B32B //--DO_3
+0
+9F9F //--RE_3
+0
+9F9F //--RE_3
+0
+//
+EF29 //--SOL_2
+0
+EF29 //--SOL_2
+0
+B32B //--DO_3
+0
+B32B //--DO_3
+0
+//
+8639 //--FA_3
+0
+8639 //--FA_3
+0
+8639 //--FA_3
+0
+0
+0
+//
